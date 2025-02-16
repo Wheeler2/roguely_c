@@ -1,0 +1,7 @@
+// filepath: /e:/Kevin/Documents/c projects/RoguelySDL3/.gitignore
+bin/
+build/
+.vscode/
+.cache/
+*.o
+*.exe
